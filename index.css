@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+input, label, button {
+  font-size: 1rem;
+}
